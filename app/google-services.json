@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "614328720101",
+    "project_id": "whatsapp-d5588",
+    "storage_bucket": "whatsapp-d5588.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614328720101:android:dee23ae74f9f50598c520c",
+        "android_client_info": {
+          "package_name": "haqnawaz.org.firebase20220113"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614328720101-lo29ao6o0g5qmk6nvj8k2v7103m4dpgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3xTAR4xZB1nGnuw1BcfQjhOHe1PXJDd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614328720101-lo29ao6o0g5qmk6nvj8k2v7103m4dpgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
